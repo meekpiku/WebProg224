@@ -319,10 +319,10 @@ nav ul li a:not(.vl):hover::before{
 /* floating socials section*/
 
 .socials{
-    position:absolute;
+    position:relative;
     transform:translateY(-50%);
-    left:3vw;
-    top:10rem;
+    left:0vw;
+    top:-10rem;
     z-index:1;
     width:10rem;
     height:10px;
